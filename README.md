@@ -194,3 +194,5 @@ for the full license texts and legal notices.
 [ref-cmake-build]:      https://github.com/Kitware/CMake#building-cmake-from-scratch
 [ref-mit]:              https://opensource.org/licenses/MIT
 # GFX-Framework-Games
+
+To run the 2 games go into main.cpp and change it to either World *world = new m1::Tema1(); or World *world = new m1::Tema2();
