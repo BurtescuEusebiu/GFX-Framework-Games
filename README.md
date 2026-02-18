@@ -196,3 +196,5 @@ for the full license texts and legal notices.
 # GFX-Framework-Games
 
 To run the 2 games go into main.cpp and change it to either World *world = new m1::Tema1(); or World *world = new m1::Tema2();
+
+Does not support Wayland.
